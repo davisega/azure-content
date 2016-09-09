@@ -27,10 +27,7 @@ To avoid confusion, many companies want to apply a consistent look and feel acro
 
 This topic explains how you can customize the sign-in page and the access panel page.
 
-> [AZURE.NOTE]
->
-- Company branding is a feature that is available only if you upgraded to the Premium or Basic edition of Azure Active Directory. For more information, see [Azure Active Directory editions](active-directory-editions.md).
-- Azure Active Directory Premium and Basic editions are available for customers in China using the worldwide instance of Azure Active Directory. Azure Active Directory Premium and Basic editions are not currently supported in the Microsoft Azure service operated by 21Vianet in China. For more information, contact us at the [Azure Active Directory Forum](https://feedback.azure.com/forums/169401-azure-active-directory/).
+
 
 
 
